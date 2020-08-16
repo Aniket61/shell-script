@@ -1,3 +1,5 @@
+#!/bin/bash
+# one example of the while loop
 a=0
 while [ "$a" -lt 10 ]
 do

@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#ONE of the type to perform arithmetic operation
 RESULT="$(($1))"
 if [ $# == 0 ]
 then

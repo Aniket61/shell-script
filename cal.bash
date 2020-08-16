@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Aithmetic operation
 let RESULT=$1
 if [ $# == 0 ]
 then

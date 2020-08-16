@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Arithmetic operation type
 RESULT="$[$1]"
 if [ $# == 0 ]
 then
